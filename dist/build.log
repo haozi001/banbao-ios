@@ -1,3 +1,1 @@
-/Users/runner/work/banbao-ios/banbao-ios/src/BanBao/PDFExporter.swift:41:56: error: cannot convert value of type 'CFDictionary' to expected argument type '[AnyHashable : Any]'
-** BUILD FAILED **
-The following build commands failed:
+** BUILD SUCCEEDED **

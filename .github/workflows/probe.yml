@@ -1,0 +1,11 @@
+name: probe
+on: push
+permissions: contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ok
+        run: |
+          echo "ubuntu runner alive"
+          uname -a
